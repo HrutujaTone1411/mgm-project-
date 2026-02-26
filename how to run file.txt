@@ -1,0 +1,17 @@
+backend
+
+open terminal	
+
+1    PS F:\HrutujaMgmProject>     cd '.\MGM Hrutuja Project\'
+2    PS F:\HrutujaMgmProject\MGM Hrutuja Project> cd .\scripts\
+3   run the code with :-     python app.py
+
+
+for frontend
+
+open new terminal
+1  (base) PS F:\HrutujaMgmProject>          cd '.\MGM Hrutuja Project\library-frontend\'
+
+2  npm install
+
+3  npm run dev
